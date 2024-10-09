@@ -1,6 +1,6 @@
-Here is a proper `README.md` with Markdown formatting that you can copy and paste:
 
-```markdown
+
+
 # Server-File-Uploader
 
 **Server-File-Uploader** is a simple tool designed to make file uploads to a server easier for users who may have difficulty using command-line methods such as SFTP or SCP. With this tool, you just run the binary, and it provides an easy-to-use web interface where you can upload files directly to the same folder where the binary is located.
@@ -49,6 +49,5 @@ Here is a proper `README.md` with Markdown formatting that you can copy and past
 ## License
 
 This project is open-source under the MIT License.
-```
 
-You can now copy and paste this Markdown into your `README.md` file. Let me know if you need further changes!
+
