@@ -13,25 +13,30 @@
 - Cross-platform: Works wherever Go binaries can run (Linux, Mac, Windows).
 
 ## How to Use
+1. **Get the Source**:
 
-1. **Build the application**:
+   ```bash
+   git clone https://github.com/fluxxset/Server-File-Uploder.git
+   cd Server-File-Uploder
+   
+2. **Build the application ( optional ) **:
    If you haven't built the binary yet, run the following command in the project directory:
    ```bash
    go build
    ```
 
-2. **Run the server**:
+3. **Run the server**:
    After building the binary, run it:
    ```bash
    ./Server-File-Uploader
    ```
 
-3. **Upload your file**:
+4. **Upload your file**:
    - Open your web browser and navigate to `http://localhost:8080`.
    - Use the file upload form to upload your file.
    - The file will be saved in the `web-uploads` folder, created in the same directory where the binary is located.
 
-4. **Stop the server**:
+5. **Stop the server**:
    Once you've uploaded your file, you can stop the server by pressing `Ctrl+C` in the terminal where the server is running.
 
 ---
